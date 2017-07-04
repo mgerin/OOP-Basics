@@ -1,0 +1,5 @@
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\08.RawData\bin\Debug\08.RawData.exe.config
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\08.RawData\bin\Debug\08.RawData.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\08.RawData\bin\Debug\08.RawData.pdb
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\08.RawData\obj\Debug\08.RawData.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\08.RawData\obj\Debug\08.RawData.pdb

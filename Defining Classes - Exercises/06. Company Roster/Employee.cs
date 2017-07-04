@@ -20,6 +20,45 @@
             this.salary = salary;
             this.position = position;
             this.department = department;
+            this.email = "n/a";
+            this.age = -1;
+        }
+
+        public int Age
+        {
+            set
+            {
+                this.age = value;
+            }
+        }
+
+        public string Email
+        {
+            set
+            {
+                this.email = value;
+            }
+        }
+
+        public string Department
+        {
+            get
+            {
+                return this.department;
+            }
+        }
+
+        public decimal Salary
+        {
+            get
+            {
+                return this.salary;
+            }
+        }
+
+        public string PrintEmployeeInfo()
+        {
+            return $"{this.name} {this.salary:F2} {this.email} {this.age}";
         }
     }
 }

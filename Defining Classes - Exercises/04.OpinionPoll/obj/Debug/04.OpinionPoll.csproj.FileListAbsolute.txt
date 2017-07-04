@@ -1,0 +1,6 @@
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\04.OpinionPoll\bin\Debug\04.OpinionPoll.exe.config
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\04.OpinionPoll\bin\Debug\04.OpinionPoll.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\04.OpinionPoll\bin\Debug\04.OpinionPoll.pdb
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\04.OpinionPoll\obj\Debug\04.OpinionPoll.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\04.OpinionPoll\obj\Debug\04.OpinionPoll.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\04.OpinionPoll\obj\Debug\04.OpinionPoll.pdb

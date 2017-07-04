@@ -1,0 +1,5 @@
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe.config
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\10. Car Salesman\bin\Debug\_10.Car_Salesman.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\10. Car Salesman\bin\Debug\_10.Car_Salesman.pdb
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\10. Car Salesman\obj\Debug\_10.Car_Salesman.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\10. Car Salesman\obj\Debug\_10.Car_Salesman.pdb

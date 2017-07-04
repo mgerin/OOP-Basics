@@ -1,0 +1,5 @@
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\09.Rectangle Intersection\bin\Debug\09.Rectangle Intersection.exe.config
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\09.Rectangle Intersection\bin\Debug\09.Rectangle Intersection.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\09.Rectangle Intersection\bin\Debug\09.Rectangle Intersection.pdb
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\09.Rectangle Intersection\obj\Debug\09.Rectangle Intersection.exe
+D:\SoftUni\OOP-Basics\Projects\Defining Classes - Exercises\09.Rectangle Intersection\obj\Debug\09.Rectangle Intersection.pdb
