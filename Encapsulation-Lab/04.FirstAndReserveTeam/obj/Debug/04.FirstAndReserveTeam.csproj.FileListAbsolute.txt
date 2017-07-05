@@ -1,0 +1,5 @@
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\04.FirstAndReserveTeam\bin\Debug\04.FirstAndReserveTeam.exe.config
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\04.FirstAndReserveTeam\bin\Debug\04.FirstAndReserveTeam.exe
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\04.FirstAndReserveTeam\bin\Debug\04.FirstAndReserveTeam.pdb
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\04.FirstAndReserveTeam\obj\Debug\04.FirstAndReserveTeam.exe
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\04.FirstAndReserveTeam\obj\Debug\04.FirstAndReserveTeam.pdb

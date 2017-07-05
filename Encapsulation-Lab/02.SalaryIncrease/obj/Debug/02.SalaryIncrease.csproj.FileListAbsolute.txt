@@ -1,0 +1,5 @@
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\02.SalaryIncrease.exe.config
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\02.SalaryIncrease.exe
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\02.SalaryIncrease\bin\Debug\02.SalaryIncrease.pdb
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\02.SalaryIncrease.exe
+D:\SoftUni\OOP Basics\Projects\Encapsulation-Lab\02.SalaryIncrease\obj\Debug\02.SalaryIncrease.pdb
