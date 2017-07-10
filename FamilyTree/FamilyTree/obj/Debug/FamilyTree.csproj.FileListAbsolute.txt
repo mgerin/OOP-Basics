@@ -1,0 +1,6 @@
+D:\SoftUni\OOP-Basics\Projects\FamilyTree\FamilyTree\obj\Debug\FamilyTree.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP-Basics\Projects\FamilyTree\FamilyTree\bin\Debug\FamilyTree.exe.config
+D:\SoftUni\OOP-Basics\Projects\FamilyTree\FamilyTree\bin\Debug\FamilyTree.exe
+D:\SoftUni\OOP-Basics\Projects\FamilyTree\FamilyTree\bin\Debug\FamilyTree.pdb
+D:\SoftUni\OOP-Basics\Projects\FamilyTree\FamilyTree\obj\Debug\FamilyTree.exe
+D:\SoftUni\OOP-Basics\Projects\FamilyTree\FamilyTree\obj\Debug\FamilyTree.pdb
