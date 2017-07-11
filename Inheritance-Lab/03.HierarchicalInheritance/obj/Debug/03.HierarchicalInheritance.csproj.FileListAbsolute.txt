@@ -1,0 +1,5 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\03.HierarchicalInheritance.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\03.HierarchicalInheritance.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\03.HierarchicalInheritance\bin\Debug\03.HierarchicalInheritance.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\03.HierarchicalInheritance.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\03.HierarchicalInheritance\obj\Debug\03.HierarchicalInheritance.pdb

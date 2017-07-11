@@ -1,0 +1,6 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\02.MultipleInheritance.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\02.MultipleInheritance.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\02.MultipleInheritance\bin\Debug\02.MultipleInheritance.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\02.MultipleInheritance.csprojResolveAssemblyReference.cache
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\02.MultipleInheritance.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Lab\02.MultipleInheritance\obj\Debug\02.MultipleInheritance.pdb
