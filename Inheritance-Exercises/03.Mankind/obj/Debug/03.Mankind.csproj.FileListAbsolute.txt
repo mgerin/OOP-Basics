@@ -1,0 +1,6 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\03.Mankind\bin\Debug\03.Mankind.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\03.Mankind\bin\Debug\03.Mankind.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\03.Mankind\bin\Debug\03.Mankind.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\03.Mankind\obj\Debug\03.Mankind.csprojResolveAssemblyReference.cache
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\03.Mankind\obj\Debug\03.Mankind.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\03.Mankind\obj\Debug\03.Mankind.pdb

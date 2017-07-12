@@ -1,0 +1,6 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\02.BookShop\bin\Debug\02.BookShop.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\02.BookShop\bin\Debug\02.BookShop.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\02.BookShop\bin\Debug\02.BookShop.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\02.BookShop\obj\Debug\02.BookShop.csprojResolveAssemblyReference.cache
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\02.BookShop\obj\Debug\02.BookShop.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\02.BookShop\obj\Debug\02.BookShop.pdb

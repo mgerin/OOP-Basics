@@ -1,0 +1,6 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\01.Person\bin\Debug\01.Person.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\01.Person\bin\Debug\01.Person.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\01.Person\bin\Debug\01.Person.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\01.Person\obj\Debug\01.Person.csprojResolveAssemblyReference.cache
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\01.Person\obj\Debug\01.Person.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\01.Person\obj\Debug\01.Person.pdb
