@@ -1,0 +1,6 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\05.Mordor'sCrueltyPlan\bin\Debug\05.Mordor'sCrueltyPlan.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\05.Mordor'sCrueltyPlan\bin\Debug\05.Mordor'sCrueltyPlan.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\05.Mordor'sCrueltyPlan\bin\Debug\05.Mordor'sCrueltyPlan.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\05.Mordor'sCrueltyPlan\obj\Debug\05.Mordor'sCrueltyPlan.csprojResolveAssemblyReference.cache
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\05.Mordor'sCrueltyPlan\obj\Debug\05.Mordor'sCrueltyPlan.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Inheritance-Exercises\05.Mordor'sCrueltyPlan\obj\Debug\05.Mordor'sCrueltyPlan.pdb
