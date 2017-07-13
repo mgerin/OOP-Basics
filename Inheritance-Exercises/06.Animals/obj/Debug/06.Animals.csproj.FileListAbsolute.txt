@@ -1,0 +1,6 @@
+D:\SoftUni\OOP-Basics\Projects\Inheritance-Exercises\06.Animals\bin\Debug\06.Animals.exe.config
+D:\SoftUni\OOP-Basics\Projects\Inheritance-Exercises\06.Animals\bin\Debug\06.Animals.exe
+D:\SoftUni\OOP-Basics\Projects\Inheritance-Exercises\06.Animals\bin\Debug\06.Animals.pdb
+D:\SoftUni\OOP-Basics\Projects\Inheritance-Exercises\06.Animals\obj\Debug\06.Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\OOP-Basics\Projects\Inheritance-Exercises\06.Animals\obj\Debug\06.Animals.exe
+D:\SoftUni\OOP-Basics\Projects\Inheritance-Exercises\06.Animals\obj\Debug\06.Animals.pdb
