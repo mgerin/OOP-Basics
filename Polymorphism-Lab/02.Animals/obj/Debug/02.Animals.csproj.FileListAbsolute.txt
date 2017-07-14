@@ -1,0 +1,6 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\02.Animals\bin\Debug\02.Animals.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\02.Animals\bin\Debug\02.Animals.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\02.Animals\bin\Debug\02.Animals.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\02.Animals\obj\Debug\02.Animals.csprojResolveAssemblyReference.cache
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\02.Animals\obj\Debug\02.Animals.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\02.Animals\obj\Debug\02.Animals.pdb

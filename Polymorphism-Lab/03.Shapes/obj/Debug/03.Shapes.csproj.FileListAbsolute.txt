@@ -1,0 +1,6 @@
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\03.Shapes\bin\Debug\03.Shapes.exe.config
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\03.Shapes\bin\Debug\03.Shapes.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\03.Shapes\bin\Debug\03.Shapes.pdb
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\03.Shapes\obj\Debug\03.Shapes.csprojResolveAssemblyReference.cache
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\03.Shapes\obj\Debug\03.Shapes.exe
+D:\Stuff\SoftUni\2017-OOP-Basics\Projects\Polymorphism-Lab\03.Shapes\obj\Debug\03.Shapes.pdb
